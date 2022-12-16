@@ -5270,3 +5270,44 @@ ul.list-group.lg-control li:first-child{border-top:none!important;}
 .verticle-action.lft25{right: -30px; top:28px;}
 .va_lft25{position: absolute; right:10px; top:-10px; z-index: 999; transform: rotate(90deg);}
 
+.shortcuts-menu li.setupguides{max-width: 25%;}
+.setupguides .left-icon-m{background:transparent; margin-right:0px;padding:10px 15px;}
+.setupguides .left-icon-m i.font-14{font-size:16px;}
+.barprogress{position: absolute; right:45px;}
+.tickposition{position: absolute; right:2px; padding: 20px 5px!important; width: 30px;}
+.tickarrowposition{position: absolute; right:0px; padding: 19px 5px!important; width: 30px; background: #f2f2f2!important;}
+
+@media (max-width:1600px) {
+    .shortcuts-menu li.setupguides{max-width:33.33%;}
+}
+@media (max-width:1280px) {
+    .shortcuts-menu li.setupguides{max-width:50%;}
+}
+@media (max-width:1024px) {
+    .shortcuts-menu li.setupguides{max-width:100%;}
+}
+
+@media (min-width:1025px) {
+    .view1024{display: none!important;}
+    .prof_control .user-detail .user-image{width: 90px; float:left;}
+    .prof_control .user-detail .user-image img {width: 80px; height: 80px;}
+    .prof_control .user-detail .user-name{width: 50%; float: left; margin-top: 10px; margin-left: 50px;}
+    .prof_control .user-detail .appliedfor{float: right;margin-top:0px;}
+}
+.storagegraph.smaller{ border-radius: 10px!important; height: 10px!important;}
+
+.whitepopup.my-popups .modal-header{ background: #fff; color: #303030;}
+.whitepopup.my-popups .modal-header button{ right: 22px; top: 26px;}
+.whitepopup.my-popups .modal-header button.close{background: none;}
+
+
+ .btn-primary_custom{color: #303030; background-color: #dbecfa; border-color: #23a5fd;}
+ .btn-primary_custom span{background: #23a5fd; width: 30px; height:30px;  padding: 5px 10px; margin-right: 10px;}
+ .btn-primary_custom span i,  .btn-info_custom span i,  .btn-warning_custom span i{color:#fff}
+
+ .btn-info_custom span{background: #8ea1f6; width: 30px; height:30px;  padding: 5px 10px; margin-right: 10px;}
+ .btn-info_custom{color: #303030; background-color: #e4e9ff; border-color: #8ea1f6;}
+ 
+
+ .btn-warning_custom span{background: #e0bd43; width: 30px; height:30px;  padding: 5px 10px; margin-right: 10px;}
+ .btn-warning_custom{color: #303030; background-color: #fff5d2; border-color: #e0bd43;}
