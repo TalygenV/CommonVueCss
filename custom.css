@@ -10468,7 +10468,7 @@ ul.list-group.lg-control li:first-child{border-top:none!important;}
 .autosuggestion{width: 100%;max-height: 250px; padding: 5px; overflow: auto; border:1px solid #d0d0d0;line-height: 27px; background: #eee; border-top: none!important;  position: absolute;
     z-index: 99;
 }
-.timeline-panel.vidtuts li{max-width: 350px; min-width: 350px;}
+.timeline-panel.vidtuts li{max-width: 350px; min-width: 350px;}  
 
 .shortcuts-menu li.setupguides{max-width: 25%;}
 .setupguides .left-icon-m{background:transparent; margin-right:0px;padding:10px 15px;}
