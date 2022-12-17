@@ -10492,6 +10492,34 @@ ul.list-group.lg-control li:first-child{border-top:none!important;}
 .conversation-box_custreps .conversation-header small{font-size: 12px;}
 .timeline-panel.vidtuts li{max-width: 350px; min-width: 350px;}  
 
+
+.coloredicons div.btn-group label.active span i{color: #fff !important;}
+.coloredicons div.btn-group label span i{padding: 5px 0px 0px 0px; font-size: 30px;}
+
+.coloredicons div.btn-group:nth-child(1) label span i{color:#44B3C2;}
+.coloredicons div.btn-group:nth-child(2) label span i{color:#F1A94E;}
+.coloredicons div.btn-group:nth-child(3) label span i{color:#648cd0;}
+.coloredicons div.btn-group:nth-child(4) label span i{color:#7cb17a;}
+.coloredicons div.btn-group:nth-child(5) label span i{color:#7B8D8E;}
+.coloredicons div.btn-group:nth-child(6) label span i{color:#E45641;}
+.coloredicons div.btn-group:nth-child(7) label span i{color:#9c82b6;}
+
+.coloredicons div.btn-group:nth-child(8) label span i{color:#44B3C2;}
+.coloredicons div.btn-group:nth-child(9) label span i{color:#F1A94E;}
+.coloredicons div.btn-group:nth-child(10) label span i{color:#648cd0;}
+.coloredicons div.btn-group:nth-child(11) label span i{color:#7cb17a;}
+.coloredicons div.btn-group:nth-child(12) label span i{color:#7B8D8E;}
+.coloredicons div.btn-group:nth-child(13) label span i{color:#E45641;}
+.coloredicons div.btn-group:nth-child(14) label span i{color:#9c82b6;}
+
+.card.probx .card-header.custprobx{background:#ececec;}
+.card.probx .card-header.custprobx h2{font-weight: 300;}
+
+/* ul.filterss{list-style: decimal;}
+ul.filterss li{border:1px solid #dee1e6!important; counter-increment: css-counter 1} */
+
+.counter_num{border-right:1px solid #dee1e6!important;}
+
 .shortcuts-menu li.setupguides{max-width: 25%;}
 .setupguides .left-icon-m{background:transparent; margin-right:0px;padding:10px 15px;}
 .setupguides .left-icon-m i.font-14{font-size:16px;}
