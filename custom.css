@@ -10503,7 +10503,7 @@ ul.list-group.lg-control li:first-child{border-top:none!important;}
 .ini_setup.storagegraph .progress-bar-striped {
     background-image: linear-gradient(-45deg,rgb(113, 225, 96) 25%,#52c41d 25%,#52c41d 50%,rgb(113, 225, 96) 50%,rgb(113, 225, 96) 75%,#52c41d 75%,#52c41d);
 }
-.ini_setup.storagegraph .progress-bar {background-color: #52c41d;}
+.ini_setup.storagegraph .progress-bar {background-color: #52c41d;}     
 
  .btn-primary_custom{color: #303030; background-color: #dbecfa; border-color: #23a5fd;}
  .btn-primary_custom span{background: #23a5fd; width: 30px; height:30px;  padding: 5px 10px; margin-right: 10px;}
