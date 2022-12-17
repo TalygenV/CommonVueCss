@@ -10564,3 +10564,6 @@ ul.list-group.lg-control li:first-child{border-top:none!important;}
 
  .btn-warning_custom span{background: #e0bd43; width: 30px; height:30px;  padding: 5px 10px; margin-right: 10px;}
  .btn-warning_custom{color: #303030; background-color: #fff5d2; border-color: #e0bd43;}
+
+ .customScrollForLeftBar.llt .mCSB_container{margin-right: 0px;} 
+
