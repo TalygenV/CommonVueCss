@@ -10499,7 +10499,7 @@ ul.list-group.lg-control li:first-child{border-top:none!important;}
 .whitepopup.my-popups .modal-header{ background: #fff; color: #303030;}
 .whitepopup.my-popups .modal-header button{ right: 22px; top: 26px;}
 .whitepopup.my-popups .modal-header button.close{background: none;}
-
+.whitepopup.my-popups .modal-footer a.btn{min-width: 30.33%; text-align: left;}
 
  .btn-primary_custom{color: #303030; background-color: #dbecfa; border-color: #23a5fd;}
  .btn-primary_custom span{background: #23a5fd; width: 30px; height:30px;  padding: 5px 10px; margin-right: 10px;}
