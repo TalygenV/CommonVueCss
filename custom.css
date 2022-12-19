@@ -6792,7 +6792,7 @@ line-height: 12px; font-size: 25px; cursor: pointer;overflow: hidden;}
 .alertdanger { color: #721c24; background-color: #d10a05; border-color: #d10a05; }
 /*custom font icon gaurav dhiman*/
 .icon-solid{display: inline-block;font: normal normal normal 14px/1 FontAwesome;font-size: inherit;text-rendering: auto;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
-.arrow-solid-left::before{content:"\f0dd";transform:rotate(89deg);display:inline-block;transition:transform .2s;transform-origin: right; position:absolute; right:3px; top:46%;}
+.arrow-solid-left::before{content:"\f0dd";transform:rotate(89deg);display:inline-block;transition:transform .2s;transform-origin: right; position:absolute; right:3px; top:46%;}  
 
 /*pop-up accordians gaurav dhiman*/
 .nu-pop-accordian{}
