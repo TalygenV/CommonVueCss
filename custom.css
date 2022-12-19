@@ -957,17 +957,12 @@ div[rel='scrollcontent1'] { width:100%; height:320px;}
 .custom-drop-down ul li a { padding: .5rem .5rem; background: #fff; border-bottom: 1px solid #ced4da; color:#303030; position: relative;}
 .custom-drop-down ul li a small { white-space: normal; }
 .custom-drop-down ul li a:hover { background: #fafafa; color: #303030; }
-.custom-drop-down ul li a:hover label {  }
 .custom-drop-down ul li a label { float: right; background: #525252; padding: 1px 8px; border-radius: 20% !important; color: #ffffff; font-weight: normal; top: 0px; position: absolute; font-size: 12px !important; right: 4px; top: 9px; }
 .custom-drop-down ul li ul { position: relative !important; top: 0; padding: 0; list-style: none; float: left; top: 0px !important; } 
 .custom-drop-down ul li ul li { border-left:1px solid #dee2e6 !important; width: 98%; margin-left: 2%; border-top: none; font-size: 14px; }
 .custom-drop-down ul li ul li ul { border: none !important; }
 .custom-drop-down ul li ul a { border-left: none; border-top: none; text-decoration: none; }
 .custom-drop-down ul li ul a i { color: #ced4da; line-height:23px; position: absolute;}
-.custom-drop-down ul li:hover ul li a { }
-.custom-drop-down ul li:hover ul li {  }
-.custom-drop-down ul li:hover ul li a label { }
-.custom-drop-down ul li:hover ul li a i { }
 .custom-drop-down ul li:last-child { height: 50%; }
 .custom-drop-down ul li a .textvalue{white-space:normal;padding:0 5px;}
 .custom-drop-down ul li .child div{white-space:normal;padding:0 5px;}
@@ -3388,7 +3383,6 @@ ul.ks-cboxtags li input[type="checkbox"]:checked + label {  background-color: #1
 ul.ks-cboxtags li input[type="checkbox"] + label::after, ul.ks-cboxtags li input[type="checkbox"] + label::before{display:none;}
 ul.ks-cboxtags li input[type="checkbox"] { display: absolute; }
 ul.ks-cboxtags li input[type="checkbox"] { position: absolute; opacity: 0; }
-ul.ks-cboxtags li input[type="checkbox"]:focus + label { }
 .modal.-confirm .modal-header{display:none;}
 .left-menu-tab .mCSB_scrollTools {width: 7px !important;}/*For adjusting the scrol on the left menu search section*/
 
@@ -3794,11 +3788,6 @@ table div.norecs{height:50px;}
 .probx .iconplus::after{content:"";position:absolute;width:1px;height:100%;background:#bbb;left:7px;top:17px}
 .probx .iconplus.last::after{display:none}
 
-
-
-
-#notfound {  }
-#notfound .notfound { }
 .notfound {  width: 100%; line-height: 1.4; text-align: center; padding: 30px 0px; }
 .notfound .notfound-404 { position: relative; height: 240px; }
 .notfound .notfound-404 h1 { font-family: 'Montserrat', sans-serif; position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); font-size: 252px; font-weight: 900; margin: 0px; color: #262626; text-transform: uppercase; letter-spacing: -40px; margin-left: -20px; }
@@ -4493,7 +4482,6 @@ a.todoprojname{float:left; padding:0px;width:95%; font-size:15px;font-weight:500
 .accordian-btn span { font-size: 16px !important; }
 .accordian-btn:hover, .accordian-btn:focus { background: #d3d3d3 !important; }
 .line-height { line-height: 0px; }
-.bg-draw { }
 .bg-draw .card{border-radius:0px !important;}
 .flowsharp button, .flowsharp button:hover{ background: none !important; width: 100%; color: #303030;}
 .flowsharp .card{ border:1px solid rgba(0,0,0,.125) !important;}
@@ -5363,5 +5351,5 @@ ul.filterss li{border:1px solid #dee1e6!important; counter-increment: css-counte
  .btn-warning_custom{color: #303030; background-color: #fff5d2; border-color: #e0bd43;}
 
  .customScrollForLeftBar.llt .mCSB_container{margin-right: 0px;} 
-/* Harjit Singh 19 Dec2022 */    
+/* Harjit 19Dec2022-6:43pm */
   
