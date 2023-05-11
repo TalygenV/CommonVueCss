@@ -21,7 +21,7 @@ body{color:#353535; background: #f3f3f3; font-weight: 400 !important;}
 .juda-menu-container .menu-box:nth-child(5n+5) ul li a:hover {background: #427e89;}
 
 .p-action-btn{border-left: 2px solid #ececec;}
-.Resolve-t{border-left: 2px solid #ececec;}
+
 .p-action-btn:hover {	background: #dfdfdf;}
 .left-tab li a{	color: #353535;}
 .left-menu.active{background: #3e4a58 !important; color:#fff !important;}
@@ -127,7 +127,7 @@ button.close:hover{color:#353535 !important;}
 .scroll-right {background: #414c50; color:#fff;}
 .scroll-left:hover, .scroll-right:hover{ background:#454545;}
 .Response-t {color:#fff;}
-.Resolve-t {color:#fff;}
+.Resolve-t {color:#fff;border-left: 2px solid #ececec;}
 .Response-t span{color:#22f151;}
 .Resolve-t span{color:#ff5454;}
 .activities li.addded-ticket .c-headr{color:#fff; background:#7998d9;}

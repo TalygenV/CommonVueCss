@@ -32,7 +32,7 @@ a:hover {
 .juda-menu-container .menu-box:nth-child(5n+5) ul li a:hover {background: #427e89;}
 .juda-btn, .juda-btn:hover {	background: #2c3135;}
 .p-action-btn {    border-left: 2px solid #454748;}
-.Resolve-t{border-left: 2px solid #4d5a60;}
+
 .p-action-btn:hover{background: #4a565c;}
 .left-tab li a{	color: #ddd;}
 .text-danger {	color: #ff665a !important;}
@@ -160,7 +160,7 @@ button.close:hover{color:#303030 !important;}
 .scroll-right {background: #414c50; color:#fff;}
 .scroll-left:hover, .scroll-right:hover{ background:#454545;}
 .Response-t {color:#fff;}
-.Resolve-t {color:#fff;}
+.Resolve-t {color:#fff;border-left: 2px solid #4d5a60;}
 .Response-t span{color:#22f151;}
 .Resolve-t span{color:#ff5454;}
 
